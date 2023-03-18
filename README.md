@@ -3,6 +3,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/joaodutra88/C214-lab-tarefa3)
 ![Linguagens usadas](https://img.shields.io/github/languages/count/joaodutra88/C214-lab-tarefa3)
 ![Linguagem mais usada](https://img.shields.io/github/languages/top/joaodutra88/C214-lab-tarefa3)
+![Última atualização](https://img.shields.io/github/last-commit/joaodutra88/C214-lab-tarefa3)
 
 Este projeto é uma implementação da tarefa 3 da disciplina C214-L1. A tarefa consiste em juntar todas as outras tarefas em um só repositório.
 
